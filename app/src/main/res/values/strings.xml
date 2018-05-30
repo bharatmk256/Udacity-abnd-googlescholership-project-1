@@ -1,3 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Bussiness Card App</string>
+    <string name="app_name">Business Card App</string>
+    <string name="shop_name">Coffie Day:</string>
+    <string name="shop_address">53-krishnapark soicity \n nikolgam road ahmedabad</string>
 </resources>
