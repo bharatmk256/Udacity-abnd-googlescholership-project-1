@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Business Card App</string>
-    <string name="shop_name">Coffie Day:</string>
+    <string name="shop_name">Coffee Day</string>
     <string name="shop_address">53-krishnapark soicity \n nikolgam road ahmedabad</string>
+    <string name="address">ADDRESS:- </string>
+    <string name="mobileno">+91 78784 58127</string>
+    <string name="phone">CONTACT:- </string>
+    <string name="Description">This Is An Coffee Shop You Can Come \nGrab Coffee And Chill</string>
+    <string name="Time">You Can Come At 10:00AM To 9:00PM \nSunday Will Be Closed* </string>
+    <string name="call">Call Us</string>
+
 </resources>
